@@ -22,4 +22,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-![structure](WhatsApp Image 2020-09-05 at 4.47.16 PM.jpeg)
+![structure](https://github.com/FrozenGirl-spd/RailsBlog/blob/master/WhatsApp%20Image%202020-09-05%20at%204.47.16%20PM.jpeg)
